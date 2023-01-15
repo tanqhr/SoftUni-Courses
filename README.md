@@ -1,3 +1,3 @@
 SoftUni-Software-Engineering
-Course exercises|Software University|Tanya Hristova
+Course exercises | Software University | Tanya Hristova
 Java Basics
