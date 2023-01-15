@@ -1,3 +1,3 @@
-# SoftUni-Courses
-Courses from my education @ Softuni.
+SoftUni-Software-Engineering
+Course exercises|Software University|Tanya Hristova
 Java Basics
